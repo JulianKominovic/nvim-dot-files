@@ -17,25 +17,25 @@ brew install ripgrep
 ## Keymaps
 
 ### Normal mode
-- **<leader>ff**: Find files (telescope)
-- **<leader>p**: File explorer
-- **<leader>u**: Undo tree toggle
-- **gd**: LSP definition
-- **gi**: LSP hover
-- **<leader>vws**: LSP workspace symbol
-- **<leader>vd**: LSP open float
-- **<leader>s**: Replace current word with new text.
-- **y**: Yanks now syncs with system clipboard.
+- `<leader>ff`: Find files (telescope)
+- `<leader>p`: File explorer
+- `<leader>u`: Undo tree toggle
+- `gd`: LSP definition
+- `gi`: LSP hover
+- `<leader>vws`: LSP workspace symbol
+- `<leader>vd`: LSP open float
+- `<leader>s`: Replace current word with new text.
+- `y`: Yanks now syncs with system clipboard.
 More....
 
 ### Visual mode
-- **<J>**: Move selected lines up.
-- **<K>**: Move selected lines down.
-- **y**: Yank now syncs with system clipboard
+- `<J>`: Move selected lines up.
+- `<K>`: Move selected lines down.
+- `y`: Yank now syncs with system clipboard
 
 ## Commands
-- **:Mason**: Mason lsp, linters, formatter manager.
-- **PackerSync**: Install packer packets.
+- `:Mason`: Mason lsp, linters, formatter manager.
+- `PackerSync`: Install packer packets.
 
 ## Features
 - Packer (packet manager)
