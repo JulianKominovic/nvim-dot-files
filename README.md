@@ -35,7 +35,7 @@ More....
 
 ## Commands
 - `:Mason`: Mason lsp, linters, formatter manager.
-- `PackerSync`: Install packer packets.
+- `:PackerSync`: Install packer packets.
 
 ## Features
 - Packer (packet manager)
