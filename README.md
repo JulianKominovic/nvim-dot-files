@@ -3,16 +3,16 @@
 ## Pre-requisites
 1. Packer
 
-´´´bash
+```bash
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ~/.local/share/nvim/site/pack/packer/start/packer.nvim
-´´´
+```
 
 2. Ripgrep (superfast grep)
 
-´´´bash
+```bash
 brew install ripgrep
-´´´
+```
 
 ## Keymaps
 
@@ -48,7 +48,7 @@ More....
 ## God tier tips
 ### Replace ocurrences secuentially
 1. Using `cgn` (change current word) replace the word with the new term.
-2. After replaced the old word with the new one, you can repeat the process using ´.´.
+2. After replaced the old word with the new one, you can repeat the process using `.`.
 3. Using `.` will do the same action on the next ocurrence.
 4. Using `n` will travel to next ocurrence.
 5. Using `N` will travel to the previous one.
